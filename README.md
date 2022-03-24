@@ -1,3 +1,3 @@
 # HuffmanFileCompression
-使用哈夫曼算法进行文件的压缩与解压缩，
-有比较详细的注释，故不再作他解
+
+Huffman algorithm is used for file compression and decompression. There are detailed comments, so I won't explain more.
